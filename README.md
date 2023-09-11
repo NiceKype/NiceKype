@@ -23,7 +23,7 @@
 ### / //////////// / - PERSONAL DETAILS
 
 - 👋 I’m @NiceKype
-- 💯 I'm 24 years old
+- 💯 I'm 25 years old
 - ❤️ I was born and live in Germany, but my roots are from poland and russia
 - 🏢 I work as a IT specialist for system integration
 - 👀 I’m interested in graphic design, 3d moddeling, music creating, game- and web design
@@ -32,7 +32,7 @@
 
 📫 How to reach me:<br>
 Web: www.nicekype.de<br>
-Discord: NiceKype#2400<br>
+Discord: nicekype<br>
 Discord Server: https://dsc.gg/nicekype<br>
 
 #
