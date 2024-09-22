@@ -33,7 +33,7 @@
 📫 How to reach me:<br>
 Web: www.nicekype.de<br>
 Discord: nicekype<br>
-Discord Server: https://dsc.gg/nicekype<br>
+Discord Server: https://discord.gg/nicekype<br>
 
 #
 
