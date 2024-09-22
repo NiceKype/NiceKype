@@ -23,8 +23,8 @@
 ### / //////////// / - PERSONAL DETAILS
 
 - 👋 I’m @NiceKype
-- 💯 I'm 25 years old
-- ❤️ I was born and live in Germany, but my roots are from poland and russia
+- 💯 I'm 26 years old
+- ❤️ I was born and live in Germany, but my roots are from poland
 - 🏢 I work as a IT specialist for system integration
 - 👀 I’m interested in graphic design, 3d moddeling, music creating, game- and web design
 - 🌱 I currently learning game development and game design
