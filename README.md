@@ -25,7 +25,7 @@
 - 👋 I’m @NiceKype
 - 💯 I'm 26 years old
 - ❤️ I was born and live in Germany, but my roots are from poland
-- 🏢 I work as a IT specialist for system integration
+- 🏢 I work as a security officer but made a education as a IT specialist for system integration and have over 10 years experience in IT.
 - 👀 I’m interested in graphic design, 3d moddeling, music creating, game- and web design
 - 🌱 I currently learning game development and game design
 - ℹ️ You find more informations like more about me, my job, my hard- and software and all that stuff on my website www.nicekype.de
