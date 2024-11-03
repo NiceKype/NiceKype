@@ -7,14 +7,14 @@
 <a href="https://nicekype.de/twitch" target="_blank">
 <img src=https://img.shields.io/badge/twitch-9146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white&labelColor=#fff alt=twitch style="margin-bottom: 5px;" />
 </a>  
-<a href="https://nicekype.de/twitter" target="_blank">
-<img src=https://img.shields.io/badge/twitter-50ABF1.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=#fff alt=twitter style="margin-bottom: 5px;" />
-</a>  
-<a href="https://nicekype.de/instagram" target="_blank">
-<img src=https://img.shields.io/badge/instagram-FBCD3F.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=#fff alt=instagram style="margin-bottom: 5px;" />
-</a>  
 <a href="https://nicekype.de/tiktok" target="_blank">
 <img src=https://img.shields.io/badge/tiktok-000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white&labelColor=#fff alt=tiktok style="margin-bottom: 5px;" />
+</a> 
+<a href="https://nicekype.de/instagram" target="_blank">
+<img src=https://img.shields.io/badge/instagram-FBCD3F.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=#fff alt=instagram style="margin-bottom: 5px;" />
+</a>   
+<a href="https://nicekype.de/twitter" target="_blank">
+<img src=https://img.shields.io/badge/twitter-50ABF1.svg?&style=for-the-badge&logo=x&logoColor=white&labelColor=#fff alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div> <br />
 
@@ -25,7 +25,7 @@
 - 👋 I’m @NiceKype
 - 💯 I'm 26 years old
 - ❤️ I was born and live in Germany, but my roots are from poland
-- 🏢 I work as a security officer but made a education as a IT specialist for system integration and have over 10 years experience in IT.
+- 🏢 I work as a security officer but made a education as a IT specialist for system integration and have over 10 years experience in IT
 - 👀 I’m interested in graphic design, 3d moddeling, music creating, game- and web design
 - 🌱 I currently learning game development and game design
 - ℹ️ You find more informations like more about me, my job, my hard- and software and all that stuff on my website www.nicekype.de
