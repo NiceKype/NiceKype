@@ -25,10 +25,10 @@
 - 👋 I’m @NiceKype
 - 💯 I'm 26 years old
 - ❤️ I was born and live in Germany, but my roots are from poland
-- 🏢 I work as a security officer but made a education as a IT specialist for system integration and have over 10 years experience in IT
-- 👀 I’m interested in graphic design, 3d moddeling, music creating, game- and web design
+- 🏢 I work as a security officer but made a education as a IT specialist for system integration and have over 10 years experience in IT. With this experience I founded a company called Pure Next with which I am now part-time self-employed
+- 👀 I’m interested in scripting, graphic & web design, 3d moddeling & music creating
 - 🌱 I currently learning game development and game design
-- ℹ️ You find more informations like more about me, my job, my hard- and software and all that stuff on my website www.nicekype.de
+- ℹ️ You find more informations like more about me, my job, my hard- and software and all that stuff on my website [www.nicekype.de](https://nicekype.de)
 
 📫 How to reach me:<br>
 Web: www.nicekype.de<br>
@@ -41,9 +41,9 @@ Discord Server: https://discord.gg/nicekype<br>
 [![](https://img.shields.io/badge/My%20social%20media%20links-www.nicekype.de/links-%23ab0606?style=for-the-badge)](https://nicekype.de/links)
 
 #### Projects
+[![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=Purenext.de&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fpurenext.de)](https://purenext.de)
 [![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=Nicekype.de&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fnicekype.de)](https://nicekype.de)
 [![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=Nicekype.dev&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fnicekype.dev)](https://nicekype.dev)
-[![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=Purenext.de&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fpurenext.de)](https://purenext.de)
 [![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=Amucom-Studios.de&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Famucom-studios.de)](https://amucom-studios.de)
 
 <!---
