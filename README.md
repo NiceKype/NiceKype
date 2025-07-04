@@ -44,6 +44,7 @@ Discord Server: https://discord.gg/nicekype<br>
 [![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=Purenext.de&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fpurenext.de)](https://purenext.de)
 [![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=Nicekype.de&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fnicekype.de)](https://nicekype.de)
 [![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=Nicekype.dev&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fnicekype.dev)](https://nicekype.dev)
+[![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=NK-Studios.eu&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fnk-studios.eu)](https://nk-studios.eu)
 [![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=Amucom-Studios.de&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Famucom-studios.de)](https://amucom-studios.de)
 
 <!---
