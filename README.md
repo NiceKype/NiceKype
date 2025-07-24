@@ -23,10 +23,10 @@
 ### / //////////// / - PERSONAL DETAILS
 
 - 👋 I’m @NiceKype
-- 💯 I'm 26 years old
+- 💯 I'm 27 years old
 - ❤️ I was born and live in Germany, but my roots are from poland
 - 🏢 I work as a security officer but made a education as a IT specialist for system integration and have over 10 years experience in IT. With this experience I founded a company called Pure Next with which I am now part-time self-employed
-- 👀 I’m interested in scripting, graphic & web design, 3d moddeling & music creating
+- 👀 I'm very interested in programming, graphic and web design, 3D modeling and music production and server administration
 - 🌱 I currently learning game development and game design
 - ℹ️ You find more informations like more about me, my job, my hard- and software and all that stuff on my website [www.nicekype.de](https://nicekype.de)
 
@@ -47,7 +47,15 @@ Discord Server: https://discord.gg/nicekype<br>
 [![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=NK-Studios.eu&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fnk-studios.eu)](https://nk-studios.eu)
 [![](https://img.shields.io/website?down_color=darkred&down_message=Offline&label=Amucom-Studios.de&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Famucom-studios.de)](https://amucom-studios.de)
 
-<!---
-NiceKype/NiceKype is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Stats
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nicekype&show_icons=true&theme=transparent&hide_border=true&title_color=ab0606&text_color=fff&icon_color=ab0606"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nicekype&show_icons=true&theme=dark&hide_border=true&title_color=ab0606&text_color=fff&icon_color=ab0606"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicekype&show_icons=true&theme=transparent&hide_border=true&title_color=ab0606&text_color=fff&icon_color=ab0606" />
+</picture>
