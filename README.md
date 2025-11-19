@@ -30,10 +30,13 @@
 - 🌱 I currently learning game development and game design
 - ℹ️ You find more informations like more about me, my job, my hard- and software and all that stuff on my website [www.nicekype.de](https://nicekype.de)
 
-📫 How to reach me:<br>
+**📫 How to reach me:**<br>
 Web: www.nicekype.de<br>
 Discord: nicekype<br>
 Discord Server: https://discord.gg/nicekype<br>
+
+#### Kenntnisse
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,bootstrap,cs,lua,py,java,nodejs,windows,linux,mysql,cloudflare,discord,discordjs,vscode,ps,ai,pr,au,ae&perline=11)](https://skillicons.dev)
 
 #
 
